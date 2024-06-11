@@ -1,0 +1,9 @@
+{
+  "IndexPage": {
+    "title": "next-intl example",
+    "description": "Welcome"
+  },
+  "NotFoundPage": {
+    "title": "صفحه پیدا نشد"
+  }
+}
